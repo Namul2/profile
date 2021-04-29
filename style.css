@@ -1,0 +1,47 @@
+#sca {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  font-size: 100%;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  background: white;
+  color: slateblue;
+  font-weight: bold;
+}
+
+#youtube {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  font-size: 100%;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  background: white;
+  color: hotpink;
+  font-weight: bold;
+}
+
+#habit {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  font-size: 100%;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  background: white;
+  color: rgb(66, 117, 175);
+  font-weight: bold;
+}
+
+p {
+  margin: 5px;
+  font-size: 75%;
+  color: gray;
+}
